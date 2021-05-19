@@ -1,6 +1,5 @@
 /**
- * Bekir Ozturk
- * BIL222 Project 2
+ * J3ekir
  * malloc and free implementation
 */
 
